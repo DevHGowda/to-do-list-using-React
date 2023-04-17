@@ -6,6 +6,6 @@ With our ToDoList web application, you can easily create tasks, set deadlines, a
 
 Say goodbye to sticky notes and cluttered calendars, and say hello to our convenient and intuitive ToDoList web application. Start planning and accomplishing your tasks more efficiently today
 
-React is used to build the UI components for creating, editing, and deleting notes.
+React is used to build the UI components for creating, editing, and deleting lists.
 
 Here we are not connecting the application to the DataBase such as MongoDB or MySQL if you want to link it fell free to fork My project and work on it also you can send me a Pull request.
